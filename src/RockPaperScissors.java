@@ -9,6 +9,7 @@ public class RockPaperScissors {
         Random computerMove = new Random(3);
         int x = 2;
         int c = 3;
+        int k = 6;
        
     }
 }
