@@ -67,7 +67,7 @@ public class RockPaperScissors {
             System.out.println(result);
             System.out.println();
             System.out.printf("Player wins: %s\n", playerWins);
-            System.out.printf("Computer wins: %s\n", computerWins);
+            System.out.printf("Computer wins:  %s\n", computerWins);
             System.out.println();
 
 
